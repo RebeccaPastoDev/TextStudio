@@ -9,7 +9,7 @@ TextStudio 1.0 is a **modular, Java-based desktop text editor** developed using 
 ## Table of Contents
 
 - [Key Features](#key-features)  
-- [Screenshots](#-creenshots)  
+- [Screenshots](#screenshots)  
 - [Modular Project Structure](#modular-project-structure)  
 - [Technical Stack](#technical-stack)  
 - [How to Run](#how-to-run)  
